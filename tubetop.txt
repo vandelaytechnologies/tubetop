@@ -1,0 +1,6 @@
+! TubeTop blocks YouTube comments.
+! Fuck 'em all!
+! Last modified: 5 September 2017
+! https://github.com/vandelaytechnologies/tubetop
+
+www.youtube.com###comments > .ytd-comments.style-scope
